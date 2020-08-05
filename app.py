@@ -17,8 +17,7 @@ migrate = Migrate(app, db)
 
 #import views
 from views import *
-
-#import model
+#import models
 from models import *
 
 if __name__ == '__main__':
